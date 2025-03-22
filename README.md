@@ -1,2 +1,4 @@
-# goit-algo2-hw-06
-Algorithms 2 Homework 6
+# Algorithms 2 Homework 6
+
+Використання парадигми MapReduce для паралельної
+обробки великої кількості даних
